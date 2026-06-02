@@ -17,7 +17,7 @@
 - 🏙️ Based in **Delhi, India** — building apps that solve local problems
 - 🎯 Goal: Become a production-ready Full Stack Developer
 - 💬 Ask me about **React, Node.js, Python, or competitive programming**
-- 📫 Reach me at: [LeetCode](https://leetcode.com/u/AkhilBisht/) · [CodeChef](https://www.codechef.com/users/akhilbeast)
+- 📫 Reach me at: [LeetCode](https://leetcode.com/u/AkhilBisht/) · [CodeChef](https://www.codechef.com/users/akhilbeast) . [Codeforces](https://codeforces.com/profile/akhil_bisht)
 
 ---
 
@@ -79,6 +79,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AkhilBisht/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akhilbeast)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/akhil_bisht)
 
 </div>
 
