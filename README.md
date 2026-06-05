@@ -63,11 +63,11 @@
 
 <div align="center">
 
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilBisht-oops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AkhilBisht-oops&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilBisht-oops&layout=compact&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkhilBisht-oops&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AkhilBisht-oops&theme=tokyonight&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkhilBisht-oops&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
