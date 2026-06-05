@@ -63,8 +63,6 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/AkhilBisht-oops/AkhilBisht-oops/output/github-contribution-grid-snake.svg)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkhilBisht-oops&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkhilBisht-oops&theme=tokyo-night)
