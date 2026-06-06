@@ -52,6 +52,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| 💹 [**Crypto Trading Simulator**](https://github.com/AkhilBisht-oops/Crypto-Trading-Simulator) | Real-time cryptocurrency paper trading platform with live Binance market data, portfolio tracking, watchlists, trading engine, and global leaderboard | `React` `Node.js` `PostgreSQL` `Prisma` `Redis` `Socket.IO` |
 | 🗺️ [**Route Optimizer**](https://github.com/AkhilBisht-oops/Route-Optimizer) | Smart route optimization for Delhi Metro & DTC buses with interactive maps, fare calculator & crowd analytics | `JavaScript` `Maps API` `OAuth` |
 | 🌫️ [**Delhi AQI Monitor**](https://github.com/AkhilBisht-oops/Delhi-AQI) | Real-time AQI monitoring platform with interactive maps and global data visualizations | `JavaScript` `API` `Charts` |
 | 👗 [**Fashion Recommender**](https://github.com/AkhilBisht-oops/Fashion-recommendation) | Visual similarity-based clothing recommendations using deep learning embeddings & cosine similarity | `PyTorch` `Scikit-learn` `Streamlit` |
